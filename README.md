@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @hassanabdisalan
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning a full-stack software engineering at ALX
+- 💞️ I’m looking to collaborate on any project
+- 📫 How to reach me +254 742 222 117
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: focused 
