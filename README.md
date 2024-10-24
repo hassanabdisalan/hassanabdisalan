@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me +254 742 222 117
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: focused 
+- ⚡ Fun fact: Focused 
