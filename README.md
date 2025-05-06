@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 📊 GitHub Stats
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanabdisalan&show_icons=true&theme=default
 
 
 ### 💡 Let's Connect
